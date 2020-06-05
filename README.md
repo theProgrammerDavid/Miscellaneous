@@ -1,6 +1,6 @@
 # Miscellaneous
 
-Code for Assignments and Other Random Scripts.
+Code for Assignments and Other Random stuff.
 
 # Hacktoberfest 2019
 
